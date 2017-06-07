@@ -22,7 +22,7 @@ Mac OS X version
 1. Command + Space to launch your Spotlight Search
 2. open ~/Library/Keyboard Layouts in Finder
 3. Copy the file into this folder
-4. Settings - Keyboard - Input Sources -plus Others > Uyğurçe
+4. Settings - Keyboard - Input Sources -plus Others > Uyğurçe or UighurCryill
 5. Restart the Computer
 ```
 * Please make sure that you already turned off the function "Correct Spelling automatically" in System Preference - Keyboard - Text, or the correction system would annoy you so much by "correcting" some of the Uighur words into silimar-looking English words
