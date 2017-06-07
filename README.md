@@ -4,9 +4,9 @@ This Repository will offer Installation files for Uighur Latin keyboard layouts 
 
 ### Updating info
 
-Till 7 June, 2017, there finished versions are Latin alphabet for Windows (tested in Windows 10, 64-bit) and Latin Alphabet for Mac OS X (tested in Sierra, 10.12.5). 
+Till 7 June, 2017, there finished versions are Latin alphabet for Windows (tested in Windows 10, 64-bit), Latin Alphabet and Cyrillic Alphabet for Mac OS X (tested in Sierra, 10.12.5). 
 
-The Cyrillic keyboard layouts for any OS is not started yet. The Latin Keyboard for iOS is in progress.
+Both the iOS versions are in progress.
 
 ### Installation
 
@@ -22,7 +22,7 @@ Mac OS X version
 1. Command + Space to launch your Spotlight Search
 2. open ~/Library/Keyboard Layouts in Finder
 3. Copy the file into this folder
-4. Settings - Keyboard - Input Sources -plus Others > Uyğurçe or UighurCryill
+4. Settings - Keyboard - Input Sources > + Others
 5. Restart the Computer
 ```
 * Please make sure that you already turned off the function "Correct Spelling automatically" in System Preference - Keyboard - Text, or the correction system would annoy you so much by "correcting" some of the Uighur words into silimar-looking English words
